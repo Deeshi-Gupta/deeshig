@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Student Blog
+title: Deeshi's Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Deeshi's Blog 
+Hi. My name is Deeshi and Welcome to my Blog. I am a current sophmore here at DNHS and I was raised in Chula Vista before moving here.
+
+![image](https://github.com/Deeshi-Gupta/deeshig/assets/76884196/87e36cf0-0024-4782-b491-634138b4c2d2)
+![image](https://github.com/Deeshi-Gupta/deeshig/assets/76884196/808c3f0b-ad5b-46c4-83fd-fe53083bca90)
+
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
